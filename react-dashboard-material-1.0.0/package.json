@@ -28,6 +28,7 @@
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
+    ​"install": "npm install --legacy-peer-deps",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
