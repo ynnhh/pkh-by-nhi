@@ -27,8 +27,9 @@
     "xlsx-js-style": "^1.2.0"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
     ​"install": "npm install --legacy-peer-deps",
+    "start": "react-scripts --openssl-legacy-provider start",
+    
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
