@@ -4,9 +4,9 @@
   "description": "Material Dashboard React. Coded by Creative Tim",
   "private": false,
   "main": "dist/index.js",
-  "homepage": "https://themewagon.github.io/react-dashboard-material",
+  "homepage": ".",
   "dependencies": {
-    "@material-ui/core": "^4.12.4",
+    "@material-ui/core": "^4.1.2.4",
     "@material-ui/icons": "4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.61",
     "chartist": "0.10.1",
